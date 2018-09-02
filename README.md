@@ -1,9 +1,9 @@
 # Acorns Assignment
 
 Hi! First of all, thank you for your time and for giving me the opportunity to show you my work.
-So I split up the assignment into two folders, Folder\_1 and Folder\_2 to match the email describing the assignment.
+So I split up the assignment into two folders, Step\_1 and Step\_2 to match the email describing the assignment.
 
-## Folder_1
+## Step_1
 
 To run the tests, make sure you have Firefox installed, and have geckodriver installed and added to your path.
 Navigate to the _Step\_1_ folder and run the commands _bundle install_, then _bundle exec cucumber_
@@ -19,7 +19,7 @@ The first scenario was pretty straight-forward and I wasn't sure if making it in
 
 The second scenario was a bit trickier since the pages js was constantly changing/adding/removing elements, but I got most of it handled. The one part I got a bit stuck on was verifying that all the results matched the filters that were set, since it takes a second for the js to run right after the 'apply filters' button is clicked.
 
-## Folder_2
+## Step_2
 
 To run the tests, navigate to the _Step\_2_ folder and run the command _bundle exec rspec_
 
